@@ -1,7 +1,4 @@
 node_modules
 .sass-cache
 .tmp
-!components/videojs/dist/video-js/*
-!components/videojs/dist/video-js/
-!components/videojs/dist/
-
+dist
